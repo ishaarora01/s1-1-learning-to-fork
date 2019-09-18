@@ -1,4 +1,4 @@
-# s1-1-learning-git
+# Learning to Fork
 
 This repo is created for demo purposes only.
 
